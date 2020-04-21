@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         RecyclerView rv = findViewById(R.id.rcView);
         rv.setLayoutManager(new LinearLayoutManager(MainActivity.this));
         rv.setAdapter(new IconAdapter(iconList));
+
+        //Test New Code
     }
     void addIcon() {
         for(int i=0; i<5; ++i) {
