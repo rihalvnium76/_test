@@ -1,2 +1,2 @@
-# git sync test
-test
+# _test
+git sync test
