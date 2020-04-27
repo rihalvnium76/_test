@@ -1,3 +1,3 @@
 # _test
 git sync test
-vscode
+vscode c
